@@ -11,5 +11,6 @@ My LeetCode solutions in Python
 | 8| [String to Intger](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./Medium/8_string_to_int.py) | Medium |
 | 58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Easy/58_Length_of_last_word.py) | Easy |
 | 182| [Duplicate Email](https://leetcode.com/problems/duplicate-emails/) | [Python](./Easy/182_Duplicate_email.py) | Easy |
+| 18| [4Sum](https://https://leetcode.com/problems/4sum/description//) | [Python](./Medium/18_4Sum.py) | Medium |
  
 
