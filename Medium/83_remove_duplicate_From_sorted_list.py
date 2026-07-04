@@ -5,7 +5,7 @@
 
 
 class Solution:
-    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def deleteDuplicates(self, head):
         current = head
 
         while current and current.next:

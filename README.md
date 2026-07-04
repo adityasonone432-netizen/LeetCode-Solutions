@@ -12,7 +12,8 @@ My LeetCode solutions in Python
 | 58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Easy/58_Length_of_last_word.py) | Easy |
 |182| [Duplicate Email](https://leetcode.com/problems/duplicate-emails/) | [Python](./Easy/182_Duplicate_email.py) | Easy |
 | 18| [4Sum](https://leetcode.com/problems/4sum/description//) | [Python](./Medium/18_4Sum.py) | Medium |
-| 83| [Remove Duplicate From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./Easy/83_remove_duplicate_From_sorted_list.py) | Easy |
+| 83| [Remove Duplicate From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./Easy/83_remove_duplicate_From_sorted_list.py) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Medium/2_add_two_numbers.py) | Medium |
 
  
 
