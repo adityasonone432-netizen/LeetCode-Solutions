@@ -14,6 +14,10 @@ My LeetCode solutions in Python
 | 18| [4Sum](https://leetcode.com/problems/4sum/description//) | [Python](./Medium/18_4Sum.py) | Medium |
 | 83| [Remove Duplicate From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./Easy/83_remove_duplicate_From_sorted_list.py) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Medium/2_add_two_numbers.py) | Medium |
+|100| [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Easy/100_same_tree.py) | Easy |
+
+
+
 
  
 
