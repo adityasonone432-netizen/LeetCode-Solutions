@@ -17,6 +17,8 @@ My LeetCode solutions in Python
 |100| [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Easy/100_same_tree.py) | Easy |
 |13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Easy/13_roman_to_integer.py) | Easy |
 |20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Easy/20_valid_parentheses.py) | Easy |
+|704| [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Easy/704_binary_search.py) | Easy |
+
 
 
 
