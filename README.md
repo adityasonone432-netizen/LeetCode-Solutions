@@ -18,6 +18,7 @@ My LeetCode solutions in Python
 |13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Easy/13_roman_to_integer.py) | Easy |
 |20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Easy/20_valid_parentheses.py) | Easy |
 |704| [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Easy/704_binary_search.py) | Easy |
+|509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Easy/509_fibonacci_num.py) | Easy |
 
 
 
