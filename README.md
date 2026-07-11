@@ -19,6 +19,7 @@ My LeetCode solutions in Python
 |20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Easy/20_valid_parentheses.py) | Easy |
 |704| [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Easy/704_binary_search.py) | Easy |
 |509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Easy/509_fibonacci_num.py) | Easy |
+|21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Easy/Easy/21_Merge_two_sorted_list.py) | Easy |
 
 
 
