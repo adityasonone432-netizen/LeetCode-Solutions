@@ -21,6 +21,7 @@ My LeetCode solutions in Python
 |509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Easy/509_fibonacci_num.py) | Easy |
 |21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Easy/21_Merge_two_sorted_list.py) | Easy |
 |33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Medium/33_search_in_rotated_sorted_array.py) | Medium |
+|125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrom/) | [Python](./Easy/20_valid_palindrome.py) | Easy |
 
 
 
