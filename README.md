@@ -23,6 +23,7 @@ My LeetCode solutions in Python
 |33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Medium/33_search_in_rotated_sorted_array.py) | Medium |
 |125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrom/) | [Python](./Easy/20_valid_palindrome.py) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Medium/11_container_with_most_water.py) | Medium |
+|283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/283_move_zeroes.py) | Easy |
 
 
 
