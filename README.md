@@ -24,6 +24,53 @@ My LeetCode solutions in Python
 |125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrom/) | [Python](./Easy/20_valid_palindrome.py) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Medium/11_container_with_most_water.py) | Medium |
 |283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/283_move_zeroes.py) | Easy |
+|35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Easy/35_Search_insert_position.py) | Easy |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 
 
